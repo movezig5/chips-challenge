@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X r X    wwC!Cww  X     X
+X u X    ww C ww  X     X
+XxxxX    wwwwwww  X     X
+X c X    wwwwwww        X
+X c X      ###    X     X
+X c X             X     X
+XOOOX       XBXXXXX     X
+X###XXXXX  XX X*        X
+X       X  X wX         X
+XXXIXXXBX  X XX*        X
+X* I  X X  X Xf         X
+XXXIXXXmX  X Xc* * * * *X
+X  I *XUXXXX XXXXXXXXXOXX
+XXXIXXXi  # <    RclX c X
+X* I  X   #  XXXXXXXX   X
+XXXIXXX    ##XccFFFFF   X
+X  I *X      XcFFFFFF   X
+XXXIXXX      XFFFFFFF   X
+X* I  X      XFFFFFFF   X
+XXXIXXX      XFFFFFFF   X
+X  I *X      XFFFFFFF   X
+XXXIXXX      XXXXXXXXXXXX
+X            c         @X
+XXXXXXXXXXXXXXXXXXXXXXXXX
